@@ -16,6 +16,7 @@ html{
     border-style: none;
 }
 .div-1 {
-    margin: auto;
+    margin-right: 10px;
+    margin-left: 10px;
     width: 680px;
 }
