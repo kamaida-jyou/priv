@@ -1,0 +1,20 @@
+html{
+    text-align: center;
+}
+.bd-1 {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    text-align: inherit;
+}
+.if-1 {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    width: 100%;
+    border-style: none;
+}
+.div-1 {
+    margin: 0px;
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+html{
+    text-align: center;
+    background-color: #79ffc0;
+}
+.bd-1 {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    text-align: inherit;
+}
+.if-1 {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    width: 680px;
+    border-style: none;
+}
+.div-1 {
+    margin: auto;
+    width: 680px;
+}
