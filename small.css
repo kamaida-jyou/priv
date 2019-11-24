@@ -15,6 +15,7 @@ html{
     border-style: none;
 }
 .div-1 {
-    margin: auto;
+    margin-right: 25px;
+    margin-left: 25px;
     width: 480px;
 }
